@@ -1,0 +1,86 @@
+Facebook metrics Data Set
+
+RELEVANT PAPERS:
+
+(Moro et al., 2016) Moro, S., Rita, P., & Vala, B. (2016). 
+Predicting social media performance metrics and evaluation of the impact on brand building: A data mining approach. Journal of Business Research, 69(9), 3341-3351.
+
+
+
+CITATION REQUEST:
+
+This dataset is public available for research. The details are described in (Moro et al., 2016).
+Please include this citation if you plan to use this database:
+
+(Moro et al., 2016) Moro, S., Rita, P., & Vala, B. (2016). 
+Predicting social media performance metrics and evaluation of the impact on brand building: A data mining approach. Journal of Business Research, 69(9), 3341-3351.
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Parkinsons DataSet
+RELEVANT PAPERS:
+
+Little MA, McSharry PE, Hunter EJ, Ramig LO (2009),
+'Suitability of dysphonia measurements for telemonitoring of Parkinson's 
+disease',
+IEEE Transactions on Biomedical Engineering, 56(4):1015-1022
+
+Little MA, McSharry PE, Roberts SJ, Costello DAE, Moroz IM.
+'Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice 
+Disorder Detection',
+BioMedical Engineering OnLine 2007, 6:23 (26 June 2007) 
+
+CITATION REQUEST:
+
+If you use this dataset, please cite the following paper:
+A Tsanas, MA Little, PE McSharry, LO Ramig (2009)
+'Accurate telemonitoring of Parkinson.s disease progression by non-invasive 
+speech tests',
+IEEE Transactions on Biomedical Engineering (to appear). 
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Behavior of the urban traffic of the city of Sao Paulo in Brazil Data Set
+RELEVANT PAPERS:
+
+Sassi, R. J., Affonso, C., & Ferreira, R. P. (2011, August). 
+Rough Neuro-Fuzzy Network Applied to Traffic Flow Breakdown in the City of Sao Paulo. In Management and Service Science (MASS), International Conference on (pp. 1-5). IEEE, 2011.
+
+Affonso, C., Sassi, R. J., & Ferreira, R. P. (2011, July). 
+Traffic flow breakdown prediction using feature reduction through rough-neuro fuzzy networks. In Neural Networks (IJCNN), The International Joint Conference Neural Networks (pp. 1943-1947). IEEE, 2011.
+
+Ferreira, R. P., Affonso, C., & Sassi, R. J. (2011, November). 
+Combination of Artificial Intelligence Techniques for Prediction the Behavior of Urban Vehicular Traffic in the City of São Paulo. In 10th Brazilian Congress on Computational Intelligence (CBIC’2011) - Fortaleza, Ceará – Brazil. (pp.1-7), 2011.
+
+Ferreira, R. P., Affonso, C., & Sassi, R. J. (2010, June). 
+Application of a neuro fuzzy network to forecast the behavior of the urban traffic of the city of São Paulo. In Information Systems and Technologies (CISTI), 2010 5th Iberian Conference on (pp. 1-4). IEEE, 2010.
+
+
+CITATION REQUEST:
+
+Ferreira, R. P., Affonso, C., & Sassi, R. J. (2011, November). 
+Combination of Artificial Intelligence Techniques for Prediction the Behavior of Urban Vehicular Traffic in the City of São Paulo. In 10th Brazilian Congress on Computational Intelligence (CBIC) - Fortaleza, Ceará – Brazil. (pp.1-7), 2011.
+
+Attribute Information:
+
+1. Hour
+2. Immobilized bus
+3. Broken Truck
+4. Vehicle excess
+5. Accident victim
+6. Running over
+7. Fire Vehicles
+8. Occurrence involving freight
+9. Incident involving dangerous freight
+10. Lack of electricity
+11. Fire
+12. Point of flooding
+13. Manifestations
+14. Defect in the network of trolleybuses
+15. Tree on the road
+16. Semaphore off
+17. Intermittent Semaphore
+18. Slowness in traffic (%) (Target)
